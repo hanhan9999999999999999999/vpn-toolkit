@@ -1,0 +1,10 @@
+# 订阅源清单示例 —— 复制成 sources.txt 后改成你自己的
+#
+# 格式：  名字 = 地址
+# 可选：  mirror = https://某个可达前缀/        会依次前置到每个地址再试
+# '#' 开头是注释，空行忽略。生成的 subs\<名字>.txt 是正文，别手工改。
+#
+# 名称只用来命名文件，不要带空格。
+
+example_a = https://example.com/path/to/subscription.txt
+example_b = https://example.org/another/sub
