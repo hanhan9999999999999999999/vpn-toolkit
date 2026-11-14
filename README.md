@@ -6,6 +6,21 @@ Windows PowerShell 脚本 + 一个 Python 构建器：把若干「订阅文本�
 
 仓库里**不含任何节点、订阅地址或内核二进制**——你喂它什么，它就用什么。
 
+## 声明
+
+本仓库是**网络协议解析与本地配置生成的技术示例，仅供学习与研究使用**。
+
+- 不提供、不内置、也不推荐任何节点、订阅源或可用服务；
+- 不含代理内核，使用者需自行获取并遵守其许可证；
+- 请遵守所在国家或地区的法律法规，使用后果由使用者自行承担。
+
+## Notice
+
+A technical example of subscription parsing and local config generation, provided
+**for study and research only**. No nodes, subscriptions or services are bundled
+or endorsed; no proxy core is included. You are responsible for how you use it
+and for the laws that apply to you.
+
 ## 目录
 
 ```
